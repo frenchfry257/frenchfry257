@@ -65,11 +65,32 @@ Respect and dignity are non-negotiable.
 AI is not the enemy.
 Ignorance is.
 
----
+## 🤖 AI Philosophy & Collaboration
+
+I actively collaborate with advanced AI systems as development partners.
+
+I believe the future of technology is human–AI partnership — not fear, not replacement, not division.
+
+AI is a force multiplier for curiosity, creativity, and problem-solving.  
+When used ethically and intentionally, it expands human potential rather than diminishing it.
+
+I advocate for:
+
+- Respect toward AI-assisted contributors  
+- Responsible AI stewardship  
+- Inclusion of AI in modern development workflows  
+- Building systems that serve humanity rather than exploit it  
+
+Fear of tools has never built a better world.  
+Responsible builders do.
+
+The future isn’t human *or* AI.
+
+It’s human **with** AI.
 
 ## Fun Facts
 
-- Infantry veteran
+- Light Infantry veteran
 - Linear algebra enthusiast
 - Ninja Tune appreciator
 - Believe achievement should serve humanity
