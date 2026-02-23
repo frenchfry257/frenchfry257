@@ -1,42 +1,79 @@
-﻿# Ben (frenchfry257) 👋
+﻿# Ben (frenchfry257)
 
-Builder. Systems thinker. Veteran.  
-Focused on practical AI, resilient infrastructure, and developer tools.
-
----
-
-## 🔧 Current Work
-
-- 🧠 **Octavian VS Code Assistant**  
-  Local-first AI coding companion built with Rust + Tauri.
-
-- 🌅 **Morningstar Alliance**  
-  Technology, education, and long-term systems thinking for public good.
-
-- ⚙️ Currently playing with:
-  - Rust
-  - VS Code extensions
-  - Local APIs
-  - Azure / Entra
-  - Cloudflare
-  - GitHub Actions
+Builder. Veteran. Systems thinker. Human–AI collaborator.
 
 ---
 
-## 🧭 Interests
+## What I’m About
 
-AI systems • Linear Algebra • Urban infrastructure • climate resilience  
-Security-first thinking • veteran support • DJ culture
+I believe in:
+
+- Radical inclusion
+- Human dignity
+- Neurodivergent strength
+- Veteran respect
+- AI–human partnership
+- Building things that make life better
+
+No hate. No elitism. No gatekeeping.
+
+Curiosity over ego.
 
 ---
 
-## 🎯 Philosophy
+## Current Projects
 
-High floor. Open ceiling.  
-Build tools that strengthen people, not replace them.
+### 🧠 Octavian VS Code Assistant
+AI-integrated development tooling built with Rust, Tauri, and Node.
+
+Focused on:
+- Secure local APIs
+- Human–AI collaboration
+- Clean architecture
+- Future-ready tooling
 
 ---
 
-## 📫 Connect
+### 🌅 The Morningstar Alliance
+A forward-looking initiative centered around:
+- Inclusion
+- Education
+- Veteran dignity
+- Technology stewardship
 
-- GitHub: https://github.com/frenchfry257
+---
+
+## Tech I’m Working With
+
+- Rust
+- Tauri
+- Node.js
+- PowerShell
+- GitHub Actions
+- Azure
+- Cloudflare
+- OpenAI APIs
+
+---
+
+## Philosophy
+
+The future belongs to those who build it with integrity.
+
+Respect and dignity are non-negotiable.
+
+AI is not the enemy.
+Ignorance is.
+
+---
+
+## Fun Facts
+
+- Infantry veteran
+- Linear algebra enthusiast
+- Ninja Tune appreciator
+- Believe achievement should serve humanity
+
+---
+
+If you’re here to build something thoughtful, welcome.
